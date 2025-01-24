@@ -1,0 +1,14 @@
+# Dependency folders
+vendor/
+
+# Logs and caches
+*.log
+cache/
+tmp/
+
+# Environment files
+.env
+
+# IDE and editor settings
+.idea/
+.vscode/
